@@ -7,7 +7,7 @@
 #define ENGINE_ENTITIES_TEAM_H
 
 #include "player.h"
-#include <core/constants.h>
+#include "core/constants.h"
 
 struct Scene;  /**< Forward declaration of Scene for update functions. */
 

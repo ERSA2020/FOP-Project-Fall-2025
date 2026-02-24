@@ -1,8 +1,8 @@
-#include "renderer.h"
 #include <stdio.h>
 #include <math.h>
 #include <SDL_image.h>
 
+#include "renderer.h"
 #include "core/constants.h"
 #include "logic/referee.h"
 #include "entities/team.h"

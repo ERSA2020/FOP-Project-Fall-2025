@@ -5,8 +5,8 @@
 #ifndef ENGINE_ENTITIES_BALL_H
 #define ENGINE_ENTITIES_BALL_H
 
-#include <core/vec2.h>
-#include <core/constants.h>
+#include "core/vec2.h"
+#include "core/constants.h"
 #include <string.h>
 #include <stdlib.h>
 

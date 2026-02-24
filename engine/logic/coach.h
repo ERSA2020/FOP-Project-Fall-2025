@@ -15,7 +15,7 @@
  * @brief A standard blueprint for all AI behavior functions.
  * Any function following this signature can be assigned to a player.
  */
-typedef void (*PlayerLogicFn)(struct Player *self, const struct Scene *scene);
+typedef void (*PlayerLogicFn)(struct Player *self, struct Scene *scene);
 
 /**
  * @name Logic Factory Functions

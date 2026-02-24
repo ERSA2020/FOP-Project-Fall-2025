@@ -1,7 +1,7 @@
 #include "player.h"
 #include "logic/coach.h"
-#include <core/constants.h>
-#include <logic/referee.h>
+#include "core/constants.h"
+#include "logic/referee.h"
 #include <stdlib.h>
 #include <string.h>
 

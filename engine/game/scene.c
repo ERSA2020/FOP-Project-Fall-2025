@@ -1,8 +1,8 @@
 #include "scene.h"
 #include "game/possession.h"
-#include <entities/ball.h>
-#include <entities/team.h>
-#include <logic/coach.h>
+#include "entities/ball.h"
+#include "entities/team.h"
+#include "logic/coach.h"
 
 #include <math.h>
 #include <stdio.h>

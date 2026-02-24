@@ -8,7 +8,7 @@
 #ifndef ENGINE_GRAPHICS_SCENE_H
 #define ENGINE_GRAPHICS_SCENE_H
 
-#include <entities/field.h>
+#include "entities/field.h"
 
 /**
  * @enum GameState
